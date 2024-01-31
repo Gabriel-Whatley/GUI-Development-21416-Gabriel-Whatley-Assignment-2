@@ -2,7 +2,10 @@
 
 I used moqups to design the journey lines in this assignment.
 
-Setup
-Dispensing
-Refilling
-
+The user jounrey consists of the following steps:
+- Setup
+- Connecting
+- Unlocking
+- Filling
+- Scheduling
+- Dispensing
