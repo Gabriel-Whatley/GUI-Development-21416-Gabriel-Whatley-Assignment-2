@@ -1,7 +1,6 @@
-# Gabriel Whatley GIU Development Assignment 2
+# Gabriel Whatley GIU Development Assignment A2
 
-I usaed moqups to design the journey lines in this assignment.
-
+I used moqups to design the journey lines in this assignment.
 
 Setup
 Dispensing
